@@ -19,7 +19,7 @@ Long story short:
     plugins:
       - custom_lint
 
-# Disable one specific rule
+# Custom limit
 
 Limit the maximum of line with a custom value (default 30)
 
