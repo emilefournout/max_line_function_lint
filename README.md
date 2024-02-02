@@ -5,7 +5,7 @@ max_lines_function_lint allows you to display a warning when one of your functio
 
 max_lines_function_lint is implemented using [custom_lint]. As such, it uses custom_lint's installation logic.  
 Long story short:
-
+  
 - Add both max_lines_function_lint and custom_lint to your `pubspec.yaml`:
   ```yaml
   dev_dependencies:
@@ -18,6 +18,13 @@ Long story short:
   analyzer:
     plugins:
       - custom_lint
+  ```
+  
+- Re-run in your IDE the analyzer or with command :
+
+  ```sh
+  dart analyze
+  ```
 
 # Custom limit
 
