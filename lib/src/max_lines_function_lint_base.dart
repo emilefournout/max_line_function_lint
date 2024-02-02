@@ -31,7 +31,7 @@ class MaxLinesFunctionRule extends DartLintRule {
     return MaxLinesFunctionRule._(maxLine, code);
   }
 
-  static const String _paramName = 'max_lines';
+  static const String _paramName = 'limit';
   static const String _name = 'max_lines_function';
   static const int _defaultMaxLine = 30;
   final int _maxLine;

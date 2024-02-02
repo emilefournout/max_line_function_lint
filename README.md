@@ -40,5 +40,5 @@ analyzer:
 custom_lint:
   rules:
     - max_lines_function:
-      max_lines: 50
+      limit: 50
 ```

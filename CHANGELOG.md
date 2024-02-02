@@ -1,23 +1,35 @@
-## 1.0.0
+## 1.2.0
 
-- Initial version.
+- Change limit param label, reorder CHANGELOG.md
 
-## 1.0.1
+## 1.1.0
 
-- Add platforms support.
-
-## 1.0.2
-
-- Update analyzer version for version solving
-
-## 1.0.3
-
-- Add screenshot
+- Change rule name
 
 ## 1.0.4
 
 - Update README.md with screenshot
 
-## 1.1.0
+## 1.0.3
 
-- Change rule name
+- Add screenshot
+
+## 1.0.2
+
+- Update analyzer version for version solving
+
+## 1.0.1
+
+- Add platforms support.
+
+## 1.0.0
+
+- Initial version.
+
+
+
+
+
+
+
+
