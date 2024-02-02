@@ -17,3 +17,7 @@
 ## 1.0.4
 
 - Update README.md with screenshot
+
+## 1.1.0
+
+- Change rule name
