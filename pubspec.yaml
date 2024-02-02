@@ -1,6 +1,6 @@
 name: max_lines_function_lint
 description: Check that your function don't exceed a maximum of lines
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/emilefournout/max_lines_function_lint
 
 platforms:
@@ -16,7 +16,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  analyzer: ^6.4.1
+  analyzer: ">=6.0.0 <7.0.0"
   custom_lint_builder: ^0.5.12
   # path: ^1.8.0
 
