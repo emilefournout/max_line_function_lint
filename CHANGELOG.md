@@ -1,3 +1,7 @@
+## 1.2.1
+
+- Correct README.md
+
 ## 1.2.0
 
 - Change limit param label, reorder CHANGELOG.md

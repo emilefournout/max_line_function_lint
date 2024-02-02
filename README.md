@@ -22,7 +22,7 @@ Long story short:
       - custom_lint
   ```
   
-- Re-run in your IDE the analyzer or with command :
+- Re-run the analyzer in your IDE the analyzer or with command :
 
   ```sh
   dart analyze
