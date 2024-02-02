@@ -2,6 +2,9 @@ name: max_lines_function_lint
 description: Check that your function don't exceed a maximum of lines
 version: 1.0.2
 repository: https://github.com/emilefournout/max_lines_function_lint
+screenshots:
+ - description: 'Examples of lint'
+   path: screenshots/screenshot.png
 
 platforms:
   android:
