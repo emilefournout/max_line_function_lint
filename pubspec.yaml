@@ -1,7 +1,15 @@
 name: max_lines_function_lint
 description: Check that your function don't exceed a maximum of lines
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/emilefournout/max_lines_function_lint
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
   sdk: ^3.2.6
