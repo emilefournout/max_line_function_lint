@@ -1,6 +1,6 @@
 ## 1.2.1
 
-- Correct README.md
+- Correct README.md, add copyright to license
 
 ## 1.2.0
 
