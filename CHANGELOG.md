@@ -8,4 +8,4 @@
 
 ## 1.0.2
 
-- Retrograde analyzer to 6.4.0 for compatibiliy
+- Update analyzer version for version solving
