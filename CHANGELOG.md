@@ -1,6 +1,6 @@
 ## 1.2.2
 
-- Correct README.md
+- Correct README.md, update description
 
 ## 1.2.1
 

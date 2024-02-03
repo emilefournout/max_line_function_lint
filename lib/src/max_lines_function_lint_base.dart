@@ -4,6 +4,7 @@ import "package:custom_lint_builder/custom_lint_builder.dart";
 
 MaxLinesFunctionLint createPlugin() => MaxLinesFunctionLint();
 
+/// This class is the one that will analyze Dart files and return lints
 class MaxLinesFunctionLint extends PluginBase {
   @override
   List<LintRule> getLintRules(CustomLintConfigs configs) {
