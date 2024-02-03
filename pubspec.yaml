@@ -1,6 +1,6 @@
 name: max_lines_function_lint
 description: Check that your function don't exceed a maximum of lines with a beautiful lint
-version: 1.2.2
+version: 1.2.3
 repository: https://github.com/emilefournout/max_lines_function_lint
 screenshots:
  - description: 'Examples of lint'
