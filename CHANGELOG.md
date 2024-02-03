@@ -1,3 +1,7 @@
+## 1.2.4
+
+- Update README.md
+
 ## 1.2.3
 
 - Add documentation
