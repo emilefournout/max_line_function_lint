@@ -20,10 +20,10 @@ Long story short:
       - custom_lint
   ```
   
-- Re-run the analyzer in your IDE or with the command :
+- run with the command:
 
   ```sh
-  dart analyze
+  dart run custom_lint
   ```
 
 # Custom limit
