@@ -1,5 +1,3 @@
-![alt text](https://github.com/emilefournout/max_lines_function_lint/blob/master/screenshots/screenshot.png)
-
 # Feature
 max_lines_function_lint allows you to display a warning when one of your functions/methods exceeds a certain number of lines
 
@@ -42,3 +40,5 @@ custom_lint:
     - max_lines_function:
       limit: 50
 ```
+
+![alt text](https://github.com/emilefournout/max_lines_function_lint/blob/master/screenshots/screenshot.png)
